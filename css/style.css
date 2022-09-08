@@ -10,6 +10,16 @@
     background: rgba(0, 0, 0, 0.7);
 }
 
+@media(max-width: 720px) {
+    .carousel-caption h1 {
+        font-size: 16px;
+    }
+
+    .carousel-caption p {
+        font-size: 8px;
+    }
+}
+
 /* register section */
 .bg-hight {
     height: 300px;
